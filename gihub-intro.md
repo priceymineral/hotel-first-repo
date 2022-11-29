@@ -18,9 +18,9 @@
 - git push origin main
 
 ## Keyboard Shortcutz
-- command + s - save
-- command + r - refresh
-- command + x - cut
-- command + z - undo
-- command + c - copy
-- command + v - paste
+- `command + s` - save
+- `command + r `- refresh
+- `command + x` - cut
+- `command + z` - undo
+- `command + c` - copy
+- `command + v` - paste
