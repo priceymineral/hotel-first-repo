@@ -1,13 +1,13 @@
 # Github Introduction
 
 ## Github Vocabulary
-- git
-- Github
-- remote
-- local
-- branch
-- clone
-- repo
+- git - version control software
+- Github - online platform for sharing code and tracking versions
+- remote - in the cloud or Github platform
+- local - in working computer
+- branch - path between local and remote
+- clone - copying a repo to local
+- repo - 
 - GUI (Graphical User Interface)
 - markdown
 
